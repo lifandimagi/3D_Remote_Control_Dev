@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Picaso Designer X - Remote Control", "Picaso Designer X - Remote Control\Picaso Designer X - Remote Control.csproj", "{2D7B08C0-07CA-4D86-AABB-B5B9825DDB06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7B08C0-07CA-4D86-AABB-B5B9825DDB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7B08C0-07CA-4D86-AABB-B5B9825DDB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7B08C0-07CA-4D86-AABB-B5B9825DDB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7B08C0-07CA-4D86-AABB-B5B9825DDB06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC54441B-9344-46C7-94FF-C332AF443E24}
+	EndGlobalSection
+EndGlobal
